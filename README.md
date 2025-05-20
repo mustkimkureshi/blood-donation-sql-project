@@ -112,5 +112,5 @@ Located in `queries.sql`. Examples include:
 **Mustkim Kureshi** 
 B.Sc. IT Student | Future Database Administrator  
 📧 mustkimkureshi34@gmail.com  
-
+📧 Likedin: https://www.linkedin.com/in/mustkim-kureshi-487876264
 
